@@ -44,7 +44,7 @@ Public validation runs on 2026-05-21:
 | One row per task | 162 | 162 | 0.9862 | 0.9862 |
 | Stratified 50 per task | 8,088 | 162 | 0.9506 | 0.9507 |
 
-Independent Vals.ai evaluation is pending.
+Independent third-party evaluation is welcomed; the public-split results above are reproducible via the [nonnon-small-legalbench](https://github.com/NonnonLabs/nonnon-small-legalbench) repo.
 
 ## Limitations
 
